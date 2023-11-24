@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\e-coomerce8.bundle.scp.css",
+      "PackagePath": "staticwebassets\\e-coomerce8.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\015e45d5-fd38-4a46-aee1-796ad6be0c92.png",
+      "PackagePath": "staticwebassets\\images\\product\\015e45d5-fd38-4a46-aee1-796ad6be0c92.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\22fbdc33-8a22-45a8-93ed-6609c6cb28db.png",
+      "PackagePath": "staticwebassets\\images\\product\\22fbdc33-8a22-45a8-93ed-6609c6cb28db.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\24f7c3ea-29bd-413c-b923-011b4099534d.png",
+      "PackagePath": "staticwebassets\\images\\product\\24f7c3ea-29bd-413c-b923-011b4099534d.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\48a88594-ccec-4569-931c-e6c0ca3184a5.png",
+      "PackagePath": "staticwebassets\\images\\product\\48a88594-ccec-4569-931c-e6c0ca3184a5.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\5b6a62bd-6e5e-4d8a-b417-d42abd51008b.png",
+      "PackagePath": "staticwebassets\\images\\product\\5b6a62bd-6e5e-4d8a-b417-d42abd51008b.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\68f1a209-3fb4-4beb-ae85-a1513ea9b4c8.png",
+      "PackagePath": "staticwebassets\\images\\product\\68f1a209-3fb4-4beb-ae85-a1513ea9b4c8.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\7476f730-6e95-4f2b-aa9c-e6c81036cdfa.png",
+      "PackagePath": "staticwebassets\\images\\product\\7476f730-6e95-4f2b-aa9c-e6c81036cdfa.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\89dcf828-6fab-4ef0-9ba4-deefb58a2729.png",
+      "PackagePath": "staticwebassets\\images\\product\\89dcf828-6fab-4ef0-9ba4-deefb58a2729.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\8f4597b3-cb1a-4f87-84e8-237b61deb184.png",
+      "PackagePath": "staticwebassets\\images\\product\\8f4597b3-cb1a-4f87-84e8-237b61deb184.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\b2404ed3-f80d-43b8-b66c-0d39c0d522ba.png",
+      "PackagePath": "staticwebassets\\images\\product\\b2404ed3-f80d-43b8-b66c-0d39c0d522ba.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\b70a0ba6-1c2b-44c0-a64f-5a4d8f6ccdc9.png",
+      "PackagePath": "staticwebassets\\images\\product\\b70a0ba6-1c2b-44c0-a64f-5a4d8f6ccdc9.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\b90df16c-2ce7-4648-b61e-5341a7038a2e.png",
+      "PackagePath": "staticwebassets\\images\\product\\b90df16c-2ce7-4648-b61e-5341a7038a2e.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\caf4dd89-bec3-4eaf-b86c-f9d97e472a1a.png",
+      "PackagePath": "staticwebassets\\images\\product\\caf4dd89-bec3-4eaf-b86c-f9d97e472a1a.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\images\\product\\fc8c5319-31d9-4c69-a715-41da4c09cc33.png",
+      "PackagePath": "staticwebassets\\images\\product\\fc8c5319-31d9-4c69-a715-41da4c09cc33.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\c# mvc\\final-version\\e-coomerce8\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.e-coomerce8.props",
+      "PackagePath": "build\\e-coomerce8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.e-coomerce8.props",
+      "PackagePath": "buildMultiTargeting\\e-coomerce8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.e-coomerce8.props",
+      "PackagePath": "buildTransitive\\e-coomerce8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.e-coomerce8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
